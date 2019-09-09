@@ -1,0 +1,15 @@
+[
+  {
+    "Date": "2019-08-11",
+    "Opposition": "Arsenal",
+    "Location": "Home",
+    "Played": true,
+    "HomeScore": [],
+    "AwayScore": [
+      {
+        "Time": 58,
+        "Name": "Aubameyang"
+      }   
+    ]
+  }
+]
